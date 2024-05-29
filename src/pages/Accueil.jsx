@@ -7,7 +7,6 @@ export default function accueil() {
         <div id='container_accueil'>
             <div className='img-mariage'></div>
             <div className='tableau-container'>
-                <h2>S & F</h2>
                 <div className='centre'>
                     <h1>Sophie & Fabien</h1>
                     <h3>Nous nous disons oui</h3>
