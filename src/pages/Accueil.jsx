@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/accueil.css';
 
 
-export default function accueil() {
+export default function Accueil() {
     return (
         <div id='container_accueil'>
             <div className='img-mariage'></div>
