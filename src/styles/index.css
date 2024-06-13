@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900');
+
+:root {
+  --primary-color: #fff;
+  --second-color: #000;
+  --third-color: #ffdef7;
+  --fourth-color: #728C4C;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
